@@ -1,0 +1,11 @@
+C:\Users\mohand\Desktop\intity framework\lab1\lab1\obj\Debug\lab1.csproj.AssemblyReference.cache
+C:\Users\mohand\Desktop\intity framework\lab1\lab1\obj\Debug\lab1.csproj.SuggestedBindingRedirects.cache
+C:\Users\mohand\Desktop\intity framework\lab1\lab1\obj\Debug\lab1.Form1.resources
+C:\Users\mohand\Desktop\intity framework\lab1\lab1\obj\Debug\lab1.Properties.Resources.resources
+C:\Users\mohand\Desktop\intity framework\lab1\lab1\obj\Debug\lab1.csproj.GenerateResource.cache
+C:\Users\mohand\Desktop\intity framework\lab1\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+C:\Users\mohand\Desktop\intity framework\lab1\lab1\bin\Debug\lab1.exe.config
+C:\Users\mohand\Desktop\intity framework\lab1\lab1\bin\Debug\lab1.exe
+C:\Users\mohand\Desktop\intity framework\lab1\lab1\bin\Debug\lab1.pdb
+C:\Users\mohand\Desktop\intity framework\lab1\lab1\obj\Debug\lab1.exe
+C:\Users\mohand\Desktop\intity framework\lab1\lab1\obj\Debug\lab1.pdb
